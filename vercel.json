@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.marius-christensen.se/$1",
+      "permanent": true
+    }
+  ]
+}
